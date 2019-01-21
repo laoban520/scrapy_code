@@ -1,0 +1,11 @@
+source: None
+redir: https://www.douban.com/
+form_email: 468673420@qq.com
+form_password: qaz123456789
+captcha-solution: color
+captcha-id: PyUZ2CW3EFM3X3S8serSET1Q:en
+login: µÇÂ¼
+
+https://accounts.douban.com/login
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
